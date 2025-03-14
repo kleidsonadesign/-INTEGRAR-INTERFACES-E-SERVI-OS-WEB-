@@ -1,0 +1,24 @@
+.lista-produtos-container {
+    font-family: Arial, sans-serif;
+  }
+  
+.main-content {
+    padding: 60px;
+    text-align: center;
+}
+  
+.produto-list {
+    list-style-type: none;
+    padding: 0;
+}
+  
+.produto-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-size: 16px;
+}
+  
+.produto-item span {
+    margin-right: 10px;
+}
+  
